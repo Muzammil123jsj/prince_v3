@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/PRINCE-SER">prince-ser</a> to mak
   <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-SER/prince_v3) 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-SER/prince_v3.git) 
  
 ### The Hard Method
 ```js
